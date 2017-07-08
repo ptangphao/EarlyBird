@@ -1,0 +1,6 @@
+framework module Pods_EarlyBird {
+  umbrella header "Pods-EarlyBird-umbrella.h"
+
+  export *
+  module * { export * }
+}

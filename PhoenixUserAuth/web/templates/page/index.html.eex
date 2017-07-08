@@ -1,0 +1,6 @@
+<div class="jumbotron">
+  <h2><%= gettext "Welcome to %{name}", name: "Early Bird!" %></h2>
+  <p class="lead">Utilize your web development<br />skills and help your local businesses </p>
+</div>
+
+

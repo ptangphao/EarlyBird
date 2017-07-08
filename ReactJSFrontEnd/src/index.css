@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: url('assets/penguin-banner.jpg');
+  max-height: 100%;
+  max-width: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+  background-color: hsla(0, 0%, 100%, 0.3);
+  background-blend-mode: overlay;
+}
+
+#favicon {
+  position: relative;
+  bottom: 5px;
+}
+
+#early-bird-title {
+  font: 200 20px/1 'Pacifico', cursive;
+  color: white;
+}
+
+.well {
+   background-color: rgba(245, 245, 245, 0.8);
+}
+
+label {
+  font: 200 20px/1 'Noto Sans';
+}
+
+.control-label {
+  margin-top: 5px;
+  font: 200 18px/1 'Noto Sans';
+  font-weight: bold;
+}
+
+h4 {
+   font: 200 20px/1 'Noto Sans';
+}
+
+#loader {
+  margin: 0 auto;
+  height: 200px;
+  width: 200px;
+}
