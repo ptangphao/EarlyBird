@@ -24,6 +24,17 @@ Loading takes about 10-15 seconds because we are processing a lot of information
 
 Finally we have the results that dynamically load on to the page from the use of React.js on our front end.  These are links to the yelp pages of businesses that either have no websites or need improvement on their existing website.
 
+## The Team
+
+![](screenshots/team.jpg?raw=true)
+
+[Patrick Tangphao](https://github.com/ptangphao)
+
+[Mina Melosh](https://github.com/minamelosh)
+
+[Max Peiros](https://github.com/mpeiros)
+
+[Helen Khumthong](https://github.com/tamietta)
 
 Technologies we used were: 
 - Ruby on Rails
